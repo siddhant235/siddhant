@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Sonu Kumar",
+    "occupation": "Co-Founder and CTO at Dukandar & MERN Stack Freelancer",
+    "description": "Turning Dreams into Reality",
+    "image": "sonu_ig.jpg",
+    "bio": "My name is Sonu, I'm a Full Stack (MERN) Developer. Currently I'm working at Dukandar as Co-Founder & CTO. I also do freelancing work and teach part-time.",
+    "contactmessage": "Get in touch with me to receive further details, get together and do freelancing or anything else.",
+    "email": "sonu077@gmail.com",
+    "phone": "+91 72 0468 7621",
+    "address": {
+      "street": "180 NL HOMES ASHRAYA LAYOUT",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560048"
+    },
+    "website": "https://tech-insta.web.app/",
+    "resumedownload": "https://tech-insta.web.app/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sonukr2901",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sonu-kumar1996",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sonu0774/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/skra7",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "National Institute of Technology Karnataka",
+        "degree": "B.Tech in Mechanical Engineering",
+        "graduated": "May 2017",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Dukandar",
+        "title": "Co-Founder & CTO ",
+        "years": "July 2020 - Present",
+        "description": "Working on MERN Stack for Website and Api Design in Nodejs. Leading a team of 4 members."
+      },
+      {
+        "company": "Tredence Analytics",
+        "title": "Senior Software Engineer",
+        "years": "June 2017 - July 2020",
+        "description": "Building MERN stack Web Apps for Telecom Client. Creating Database Design and Migration process to cater latest App changes."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Node Js",
+        "level": "70%"
+      },
+      {
+        "name": "Mongo DB",
+        "level": "60%"
+      },
+      {
+        "name": "MySql & DWH",
+        "level": "80%"
+      },
+      {
+        "name": "Docker",
+        "level": "80%"
+      },
+      {
+        "name": "AWS",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Code Assessment platform for MERN  Stack",
+        "category": "Platform for assessing Front-end and Back-end code with report on assessment",
+        "image": "tech-insta.png",
+        "url": "https://tech-insta.web.app/"
+      },
+      {
+        "title": "React Google Clone",
+        "category": "Google Clone built with React",
+        "image": "google-clone.png",
+        "url": "https://clone-ead09.web.app/"
+      },
+      {
+        "title": "React Amazon Clone",
+        "category": "Amazon Clone built with React",
+        "image": "amazon-clone.png",
+        "url": "https://clone-7d6dd.web.app/"
+      },
+      {
+        "title": "React Tinder Clone",
+        "category": "Tinder Clone built with ReactJS",
+        "image": "tinder-clone.png",
+        "url": "https://tinder-clone-f1ebe.web.app/"
+      },
+      {
+        "title": "Custom Webiste for Shopkeepers using MERN STACK",
+        "category": "Custom Store for Dukandars across or portal to sell online",
+        "image": "technical-dukaan.png",
+        "url": "http://13.127.51.241/technical-dukaan"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Passionate at Work built the entire Data pipleline for a huge Application from Scratch",
+        "user": "Saurabh Srivastava"
+      },
+      {
+        "text": "This guy can work day in day out when it comes web app development and can bring in results for you everytime",
+        "user": "Dibyamrit Jana ... CEO Dukandar"
+      }
+    ]
+  }
+}
