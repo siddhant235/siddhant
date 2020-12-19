@@ -2,9 +2,9 @@
   "main": {
     "name": "Siddhant Agarwal",
     "occupation": "Reactjs Developer",
-    "description": "Tech enthisiast ,Believe in implementing and learning",
+    "description": "Tech enthusiast Believe in implementing and learning",
     "image": "siddhant.png",
-    "bio": "Hi! Siddhant Agarwal here, I'm a  Reactjs Developer and preparing to be a Mern Stack developer soon . Currently I'm working at Dukandar as Reactjs Developer",
+    "bio": "Hi! Siddhant Agarwal here, I'm a  React.js Developer and preparing to be a Mern Stack developer soon . Currently I'm working at Dukandar as Reactjs Developer",
     "contactmessage": "Get in touch with me to receive further details",
     "email": "siddhant235@gmail.com",
     "phone": "+91 7355669926",
@@ -46,7 +46,7 @@
         "school": "Vellore Institute Of Technology",
         "degree": "B.Tech in Electronics And Communication",
         "graduated": "May 2021",
-        "description": "CGPA 8.21"
+        "description": ""
       }
     ],
     "work": [
@@ -61,11 +61,17 @@
         "title": "React Developer",
         "years": "Jul 2020 - Sep 2020",
         "description": "Made A Job Portal Website ."
+      },
+      {
+        "company": "Fusion Informatics Private Limited",
+        "title": "React Developer ",
+        "years": "May 2020 - Aug 2020",
+        "description": "Made EcommerceUsing Reactjs"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "React.js",
         "level": "80%"
       },
       {
@@ -81,7 +87,7 @@
         "level": "85%"
       },
       {
-        "name": "Node Js",
+        "name": "Node.js",
         "level": "50%"
       },
       {
@@ -101,10 +107,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Burger Store",
-        "category": "Platform for a Burger Store Online",
-        "image": "BurgerStore.png",
-        "url": "https://my-burger-89183.web.app/"
+        "title": "Custom Webiste Maintainence for Shopkeepers using Reactjs",
+        "category": "Custom Store for Dukandars across or portal to sell online",
+        "image": "technical-dukaan.png",
+        "url": "http://store.dukandar.io/agarwalstores"
       },
       {
         "title": "Job Portal",
@@ -112,13 +118,15 @@
         "image": "JobPortal.png",
         "url": "https://job-listings-6de97.web.app/"
       },
-     
       {
-        "title": "Custom Webiste Maintainence for Shopkeepers using Reactjs",
-        "category": "Custom Store for Dukandars across or portal to sell online",
-        "image": "technical-dukaan.png",
-        "url": "http://13.127.51.241/technical-dukaan"
+        "title": "Burger Store",
+        "category": "Platform for a Burger Store Online",
+        "image": "BurgerStore.png",
+        "url": "https://my-burger-89183.web.app/"
       }
+     
+     
+      
     ]
   },
   "testimonials": {

@@ -19,11 +19,11 @@ class Footer extends Component {
            </ul>
 
            <ul>
-            <li>Created with Patience by Sonu Kumar </li>
+            <li>Created with Patience by Siddhant Agarwal </li>
            </ul>
 
            <ul className="copyright">
-              <li><span role="img">&copy;</span> Copyright 2020 Sonu Kumar</li>
+              <li><span role="img">&copy;</span> Copyright 2020 Siddhant Agarwal</li>
            </ul>
 
         </div>
